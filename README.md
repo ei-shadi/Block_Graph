@@ -67,7 +67,7 @@ This project demonstrates a draggable block tree UI built in **React** with **Ta
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/placeholder.png" alt="Draggable Block Tree Screenshot" class="rounded-lg shadow-lg" width="600"/>
+  <img src="https://i.ibb.co.com/Jw2c0GPT/Block-Graph.png" alt="Draggable Block Tree Screenshot" class="rounded-lg shadow-lg" width="600"/>
 </div>
 
 ---
@@ -81,7 +81,7 @@ This project demonstrates a draggable block tree UI built in **React** with **Ta
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Block_Graph.git
+git clone https://github.com/ei-shadi/Block_Graph.git
 cd Block_Graph
 ```
 
@@ -137,7 +137,7 @@ src/
 
 </div>
 
-[View Live Demo](https://your-demo-link.netlify.app)
+[View Live Demo](https://blockgraph.netlify.app/)
 
 ---
 
